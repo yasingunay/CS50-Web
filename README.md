@@ -2,7 +2,7 @@
 
 [General Information](https://pll.harvard.edu/course/cs50s-web-programming-python-and-javascript)
 
-[CS50: Introduction to Computer Science](https://cs50.harvard.edu/web/2020/)
+[CS50’s Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/)
 
 [CS50 Certificate](https://cs50.harvard.edu/web/2020/certificate/)
 
