@@ -29,3 +29,4 @@ This course picks up where [CS50x](https://cs50.harvard.edu/x/2023/) leaves off,
 ## Projects
 * [Project 0: Search](https://github.com/yasingunay/Search)
 * [Project 1: Wiki](https://github.com/yasingunay/Wiki)
+* [Project 2: Commerce](https://github.com/yasingunay/Commerce)
